@@ -1,2 +1,2 @@
-# functional_programming_javascript
+# functional programming javascript
 JavaScript functions
